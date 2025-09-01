@@ -1,2 +1,2 @@
 # HarmomoScript
-repo de test de srcipt harmonyTB
+repo de test de script harmonyTB
