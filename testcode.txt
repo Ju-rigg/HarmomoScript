@@ -1,0 +1,5 @@
+function myfunc(){
+        MessageBox.information("hello") 
+        MessageLog.trace("Hello from the log") 
+}
+
