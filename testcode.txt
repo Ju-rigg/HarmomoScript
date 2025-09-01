@@ -1,5 +1,5 @@
 function myfunc(){
         MessageBox.information("hello, on se fait une modif") 
-        MessageLog.trace("Hello from the log modif pour test") 
+        MessageLog.trace("Hello from the log modif pour test et maintenant du cloud vers le local") 
 }
 
